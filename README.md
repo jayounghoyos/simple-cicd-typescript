@@ -28,7 +28,7 @@ El proyecto incluye configuraciones listas para ejecutar:
 ```text
 .github/               # Contiene los workflows de GitHub Actions (CI/CD)
 └── workflows/
-    └── ci.yml        # Pipeline que ejecuta lint, tests y (opcional) deploy
+    └── ci.yml        # Pipeline que ejecuta lint, tests y deploy
 
 .eslintrc.cjs          # Configuración de ESLint para TypeScript
 .gitignore             # Archivos ignorados por Git
