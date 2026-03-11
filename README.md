@@ -1,6 +1,6 @@
 # 🧮 simple-cicd-typescript
 
-# Juan Andrés Young Hoyos Fork
+# Juan Andrés Young Hoyos Fork Mar112026
 
 Este proyecto es una introducción práctica al desarrollo con **TypeScript**, pruebas automatizadas con **Jest**, análisis estático usando **ESLint**, y un flujo de **CI/CD** configurado con **GitHub Actions**.
 
