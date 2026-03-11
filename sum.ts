@@ -12,7 +12,7 @@ function multiply(a: number, b: number): number {
   return a * b;
 }
 
-// Divides a by b, throws on division by zero
+// Divides a by b, throws on division by zero error
 function divide(a: number, b: number): number {
   if (b === 0) {
     throw new Error("Division by zero");
